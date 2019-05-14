@@ -1,0 +1,59 @@
+.header{
+  background-color:#adff2f;
+}
+.header-logo{
+  font-size: 30px;
+  float: left;
+  padding: 20px 40px;
+  border-bottom: 1px solid #333;
+
+}
+.header-list li{
+  float: left;
+  padding: 33px 20px;
+  list-style: none;
+
+}
+.main{
+  padding: 100px 80px;
+
+}
+.copy-container h1{
+  font-size: 30px;
+  font-family: fantasy;
+}
+.copy-container h2{
+  font-size:20px;
+}
+.copy-container span{
+  color:red;
+}
+.contents h3{
+  font-size: 20;
+  font-family: Comic Sans MS;
+}
+.contact-form{
+  padding: 100;
+}
+input,textarea{
+  width:400px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding:4px;
+  border: 1px solid #dee7ec
+}
+.footer {
+  background-color:#2f4f4f;
+}
+.footer-logo{
+  float:left;
+  font-size: 30px;
+  padding: 20px 40px;
+}
+.footer-list {
+  float: right;
+  padding:20px 40px;
+}
+.footer-list li{
+  padding :20px;
+}
